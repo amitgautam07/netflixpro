@@ -1,7 +1,20 @@
 # Netflixpro...
 - Create React App
 - Configure TailwindCSS
-
+- header
+- Routing of App
+- Login form
+- Sign up form
+- Form Validation
+- useRef
+- Firebase Setup
+- Deploying our app to prodution 
+- Create Sign up user account
+- Implement sign in user API
+- Created Redux store with userSlice 
+- Implemented Sign out 
+- Update profile 
+ 
 
 
 
